@@ -102,3 +102,4 @@ Bye bye!
 
 ## Conclusion
 
+This repository is a beginner-friendly collection of Python programs that demonstrates the fundamentals of Python programming and basic GitHub project management.
